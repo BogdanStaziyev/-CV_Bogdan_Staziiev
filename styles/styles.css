@@ -16,7 +16,7 @@ body{
 }
 .title{
     background-color: #FFFFFF;
-    padding: 105px 90px;
+    padding: 10px 90px;
 }
 
 .about-position{
@@ -34,7 +34,7 @@ body{
     line-height: 55px;
     color: black;
     margin-top: 20px;
-    margin-bottom: 24px;
+    margin-bottёom: 24px;
 }
 
 .about-description{
@@ -128,15 +128,6 @@ body{
     line-height: 24px;
 }
 
-
-
-
-
-
-
-
-
-
 .sidebar{
     background-color: #303e54;
     padding-top: 48px;
@@ -146,7 +137,7 @@ body{
 
 .photo{
     width: 370px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
 }
 
 .sidebar-title{
@@ -164,7 +155,7 @@ body{
 }
 
 .contacts{
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .tech-skills-list,
@@ -195,7 +186,7 @@ body{
     font-size: 22px;
     line-height: 27px;
     margin-bottom: 10px;
-    margin-top: 44px;
+    margin-top: 20px;
 }
 
 .contact-type{
