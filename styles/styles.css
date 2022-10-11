@@ -175,7 +175,7 @@ body{
     color: #FFFFFF;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
 
 }
 
@@ -184,8 +184,8 @@ body{
     font-style: normal;
     font-weight: bold;
     font-size: 22px;
-    line-height: 27px;
-    margin-bottom: 10px;
+    line-height: 20px;
+    margin-bottom: 20px;
     margin-top: 20px;
 }
 
@@ -194,7 +194,7 @@ body{
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 10px;
 }
 
 .contact-linc{
