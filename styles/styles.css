@@ -30,20 +30,20 @@ body{
 .about-name{
     font-style: normal;
     font-weight: 700;
-    font-size: 45px;
-    line-height: 55px;
+    font-size: 30px;
+    line-height: 20px;
     color: black;
-    margin-top: 20px;
-    margin-bottёom: 24px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
 .about-description{
     color: #595959;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 14px;
-    line-height: 24px;
-    margin-bottom: 40px;
+    line-height: 20px;
+    margin-bottom: 5px;
     width: 400px;
 }
 
@@ -79,18 +79,18 @@ body{
 }
 
 .about-work{
-    margin-top: 50px;
+    margin-top: 30px;
     font-style: normal;
     font-weight: 700;
-    font-size: 22px;
-    line-height: 27px;
+    font-size: 25px;
+    line-height: 20px;
     color: black;
     margin-bottom: 8px;
 }
 
 .positon-work{
     font-weight: 700;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 20px;
     color: black;
     margin-bottom: 10px;
