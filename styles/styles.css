@@ -129,7 +129,7 @@ body{
 }
 
 .sidebar{
-    background-color: #1e293d;
+    background-color: rgba(15, 30, 11, 0.85);
     padding-top: 48px;
     width: 370px;
     height: 1319px;
@@ -198,7 +198,7 @@ body{
 }
 
 .contact-linc{
-    color: #565F6B;
+    color: #747e8d;
     width: 157px;
     height: 48px;
     left: 106px;
