@@ -44,7 +44,7 @@ body{
     font-size: 14px;
     line-height: 20px;
     margin-bottom: 5px;
-    width: 400px;
+    width: 600px;
 }
 
 .about-project{
@@ -97,7 +97,7 @@ body{
 }
 
 .comp-compani{
-    color: #FB6D3A;
+    color: #813012;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
@@ -129,7 +129,7 @@ body{
 }
 
 .sidebar{
-    background-color: #303e54;
+    background-color: #1e293d;
     padding-top: 48px;
     width: 370px;
     height: 1319px;
@@ -166,7 +166,7 @@ body{
 }
 
 .tech-skills-item{
-    color: #FB6D3A;
+    color: #6b3624;
 
 }
 
