@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Montserrat', sans-serif;
     width: 1280px;
     height: 1400px;
@@ -14,12 +14,13 @@ body{
     height: 1367px;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
-.title{
+
+.title {
     background-color: #FFFFFF;
     padding: 10px 90px;
 }
 
-.about-position{
+.about-position {
     color: #000000;
     font-style: normal;
     font-weight: 700;
@@ -27,7 +28,7 @@ body{
     line-height: 17px;
 }
 
-.about-name{
+.about-name {
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
@@ -37,7 +38,7 @@ body{
     margin-bottom: 12px;
 }
 
-.about-description{
+.about-description {
     color: #595959;
     font-style: normal;
     font-weight: 700;
@@ -47,7 +48,7 @@ body{
     width: 600px;
 }
 
-.about-project{
+.about-project {
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
@@ -56,7 +57,8 @@ body{
     margin-bottom: 8px;
 
 }
-.project-numbers{
+
+.project-numbers {
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
@@ -64,7 +66,7 @@ body{
 
 }
 
-.project-http{
+.project-http {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -73,12 +75,12 @@ body{
     margin-left: 10px;
 }
 
-.project-list{
+.project-list {
     padding: 0px;
     margin-left: 15px;
 }
 
-.about-work{
+.about-work {
     margin-top: 30px;
     font-style: normal;
     font-weight: 700;
@@ -88,7 +90,7 @@ body{
     margin-bottom: 8px;
 }
 
-.positon-work{
+.positon-work {
     font-weight: 700;
     font-size: 20px;
     line-height: 20px;
@@ -96,14 +98,14 @@ body{
     margin-bottom: 10px;
 }
 
-.comp-compani{
+.comp-compani {
     color: #813012;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
 }
 
-.period{
+.period {
     color: #A8A8A8;
     font-weight: 400;
     font-size: 12px;
@@ -111,36 +113,39 @@ body{
     margin-bottom: 10px;
 }
 
-.line{
+.line {
     color: black;
     font-weight: 400;
     font-size: 12px;
     line-height: 15px;
 }
-.work-list{
+
+.work-list {
     padding: 0px;
     margin-left: 15px;
 }
-.work-text{
+
+.work-text {
     color: #595959;
     font-weight: 400;
     font-size: 14px;
-    line-height: 17px; // ewrew
+    line-height: 17px;
+/ / ewrew
 }
 
-.sidebar{
+.sidebar {
     background-color: rgba(15, 30, 11, 0.85);
     padding-top: 48px;
     width: 370px;
     height: 1319px;
 }
 
-.photo{
+.photo {
     width: 370px;
     margin-bottom: 0px;
 }
 
-.sidebar-title{
+.sidebar-title {
     color: #FFFFFF;
     font-style: normal;
     font-weight: bold;
@@ -150,28 +155,28 @@ body{
 }
 
 .contacts,
-.tech-skills{
+.tech-skills {
     margin-left: 40px;
 }
 
-.contacts{
+.contacts {
     margin-bottom: 20px;
 }
 
 .tech-skills-list,
-.soft-skills-list{
+.soft-skills-list {
     color: #FFFFFF;
     padding: 0px;
     margin-left: 17px;
 }
 
-.tech-skills-item{
+.tech-skills-item {
     color: #6b3624;
 
 }
 
 .tech-skills-text,
-.soft-skills-text{
+.soft-skills-text {
     color: #FFFFFF;
     font-weight: 400;
     font-size: 14px;
@@ -179,7 +184,7 @@ body{
 
 }
 
-.soft-skills{
+.soft-skills {
     color: #FFFFFF;
     font-style: normal;
     font-weight: bold;
@@ -189,7 +194,7 @@ body{
     margin-top: 20px;
 }
 
-.contact-type{
+.contact-type {
     color: #FFFFFF;
     font-style: normal;
     font-weight: 700;
@@ -197,7 +202,7 @@ body{
     line-height: 10px;
 }
 
-.contact-linc{
+.contact-linc {
     color: #747e8d;
     width: 157px;
     height: 48px;
